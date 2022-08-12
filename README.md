@@ -1,17 +1,17 @@
 
 # Programming Assignment
 
-This programming assignment is in the Signal and System course done by Sakshi Jain (B20ME065) and Monika Saini (B20ME046).
+This programming assignment is in the Signal and System course done by Sakshi Jain (B20ME065).
 
 In this project given y[n] is the signal which is recorded by the sensors, that is, the observed value of temperature.
-We have to process it by two ways and get x[n], that is, the real value of temperature.
-Then comparing the given x[n] with which we got through the two ways.
+I have to process it by two ways and get x[n], that is, the real value of temperature.
+Then comparing the given x[n] with which I got through the two ways.
 
 The signal y[n] has additive noise and blur distortion in it.So the first ways is to remove noise first and then deblurring it and second way is to deblur first and then removing noise.
 
 The signals we get through the two ways are x1[n] and x2[n].
 
-We have done coding in MATLAB simulator.
+I have done coding in MATLAB simulator.
 
 
 
