@@ -1,7 +1,7 @@
 
 # Programming Assignment
 
-This programming assignment is in the Signal and System course done by Sakshi Jain (B20ME065).
+This project is in the Signal and System course done by Sakshi Jain (B20ME065).
 
 In this project given y[n] is the signal which is recorded by the sensors, that is, the observed value of temperature.
 I have to process it by two ways and get x[n], that is, the real value of temperature.
